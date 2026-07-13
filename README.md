@@ -24,4 +24,4 @@ Python · NumPy · Pandas · PyTorch · Matplotlib · scikit-learn
 
 ### Contacto
 
-agustinpatruno@gmail.com · [LinkedIn](https://www.linkedin.com/in/TU-USUARIO)
+agustinpatruno@gmail.com · [LinkedIn](https://www.linkedin.com/in/agustin-patruno-carranza-4499a2374/)
