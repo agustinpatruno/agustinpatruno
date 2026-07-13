@@ -1,8 +1,8 @@
 ## Agustín Patruno
 
-Estudio Ingeniería en Inteligencia Artificial en la Universidad de San Andrés. Me interesa entender los algoritmos de Machine Learning y Deep Learning por dentro, no solo usarlos: casi todo lo que hay en mi perfil está implementado desde cero en NumPy —forward, backpropagation, árboles, PCA, k-Means— y recién después contrastado contra librerías como PyTorch o scikit-learn. Escribir el algoritmo a mano es la forma en que me aseguro de haberlo entendido de verdad.
+Estudio Ingeniería en Inteligencia Artificial en la Universidad de San Andrés. Me interesa entender los algoritmos de Machine Learning y Deep Learning por dentro, no solo usarlos: casi todo lo que hay en mi perfil está implementado desde cero en NumPy —forward, backpropagation, árboles, PCA, k-Means— y recién después contrastado contra librerías como PyTorch o scikit-learn.
 
-Trabajo sobre el flujo completo de un problema, no solo el modelo: análisis exploratorio, decisiones de preprocesamiento, elección y justificación de métricas, y validación honesta de resultados. En cada proyecto trato de dejar documentado *por qué* tomé cada decisión, no solo *qué* hice.
+Trabajo sobre el flujo completo de un problema, no solo el modelo: análisis exploratorio, decisiones de preprocesamiento, elección y justificación de métricas, y validación de resultados.
 
 ### Proyectos
 
